@@ -6,6 +6,8 @@ FOR OF LOOPS
 
 //FOR Ins are for objects ... for of are for arrays
 
+//FOR OF loops are ITERABLE
+
 ***********************************//
 
 

@@ -4,6 +4,8 @@ FOR IN LOOPS
 
 */
 
+//FOR IN loops are ENUMERABLE
+
 // Great for iterating over values(items) in an object
 
 let student = {
